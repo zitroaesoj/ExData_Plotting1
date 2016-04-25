@@ -1,7 +1,14 @@
 ## Coursera course: Exploratory Data Analysis<br>
 # Week 1 Project<br>
 <br>
-All you need to do is download the 4 scripts, each script can be run independantly.<br>
+All you need to do is download and load the 4 scripts, each script can be run independantly.<br>
+<br>
+<br>
+source("plot1.R")<br>
+source("plot2.R")<br>
+source("plot3.R")<br>
+source("plot4.R")<br>
+<br>
 <br>
 Basics of all 4 scripts:<br>
 1. Download the ZIP file (into your working directory from cloudfront as household_power_consumption.zip).<br>
