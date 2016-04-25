@@ -1,4 +1,4 @@
-## Couresera course: Exploratory Data Analysis<br>
+## Coursera course: Exploratory Data Analysis<br>
 # Week 1 Project<br>
 <br>
 All you need to do is download the 4 scripts, each script can be run independantly.<br>
